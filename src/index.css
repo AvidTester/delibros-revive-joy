@@ -17,10 +17,10 @@
     --popover: 0 0% 100%;
     --popover-foreground: 20 8% 15%;
 
-    /* Primary - rich burger brown */
-    --primary: 25 30% 25%;
+    /* Primary - rich green #05693b */
+    --primary: 148 90% 22%;
     --primary-foreground: 45 15% 97%;
-    --primary-glow: 35 45% 40%;
+    --primary-glow: 148 70% 35%;
 
     /* Secondary - warm golden */
     --secondary: 45 60% 85%;

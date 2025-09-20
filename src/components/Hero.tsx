@@ -13,7 +13,7 @@ const Hero = () => {
           alt="Delicious gourmet hamburger"
           className="w-full h-full object-cover"
         />
-        <div className="absolute inset-0 bg-gradient-to-r from-primary/90 via-primary/70 to-primary/40" />
+        <div className="absolute inset-0 bg-gradient-to-r from-primary/80 via-primary/60 to-transparent" />
       </div>
 
       <div className="container mx-auto px-4 relative z-10">

@@ -22,9 +22,9 @@
     --primary-foreground: 45 15% 97%;
     --primary-glow: 148 70% 35%;
 
-    /* Secondary - warm golden */
-    --secondary: 45 60% 85%;
-    --secondary-foreground: 25 30% 25%;
+    /* Secondary - light cream #EDF0D6 */
+    --secondary: 75 25% 90%;
+    --secondary-foreground: 148 90% 22%;
 
     /* Muted - soft neutral */
     --muted: 45 25% 92%;

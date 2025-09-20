@@ -17,10 +17,10 @@
     --popover: 0 0% 100%;
     --popover-foreground: 20 8% 15%;
 
-    /* Primary - rich green #05693b */
-    --primary: 148 90% 22%;
-    --primary-foreground: 45 15% 97%;
-    --primary-glow: 148 70% 35%;
+    /* Primary - warm orange #FEBC8C */
+    --primary: 35 98% 77%;
+    --primary-foreground: 20 8% 15%;
+    --primary-glow: 35 85% 65%;
 
     /* Secondary - light cream #EDF0D6 */
     --secondary: 75 25% 90%;
